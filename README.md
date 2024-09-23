@@ -132,8 +132,10 @@ for creating a new column following DAX expression was written;
 )
         
 Snap of the new calculated column ,
+![image](https://github.com/user-attachments/assets/45f09870-92d8-410a-99c0-1d22901c5170)
 
-![Age_Group](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/66fdc8e8-11ed-4069-857c-38ef358eefd0)
+
+
 
 - Step 19 : Additional Column Calculated in which, customers were grouped into various income groups.
 
@@ -176,33 +178,23 @@ Following DAX expression was written for the same,
     
  A Table visual represented Current_Week_Revenue, Previous_Week_Revenue, and Week on Week Revenue Growth.
  
- 
- ![WOW_Revenue](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/eca97f54-0ef4-4e47-b3a7-6d79b5fac4f7)
+ ![image](https://github.com/user-attachments/assets/d5e8f6f2-7481-4675-8eee-3aedc434a112)
+
+
 
   - Step 24 : New transaction and customer data are added to the respective existing files to keep the report up-to-date using the append query. Also, After appending the data, the "Enable Load" option was turned off to hide the file from the report view to avoid confusion.
  
  - Step 25 : The report was then published to Power BI Service.
- 
- ![Screenshot (95)](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/c48371a8-e893-47ad-a654-895bad8979c5)
-
-# Snapshot of Dashboard (Power BI Service)
-
- ![CC_Transaction_PowerBI](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/0dc732aa-4956-44fe-bfd6-f41b8b1377eb)
-
- ![CC_Customer_PowerBI](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/36d8d7ac-6e22-44ea-aaf4-2bd7a14a4d94)
-
- ![CC_Additional_PowerBI](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/4e14d2de-3052-4bc9-adff-db7b93fed9e6)
+ ![image](https://github.com/user-attachments/assets/d6c76533-8bbe-49d1-aa38-843b9bbf126b)
 
  
- # Report Snapshot (Power BI DESKTOP)
 
+# Snapshot of Dashboard (Power BI Desktop)
+
+ ![image](https://github.com/user-attachments/assets/6eeb78d5-1eb6-4ca9-b715-54519e726a93)
+
+ ![image](https://github.com/user-attachments/assets/c7e523ba-5950-4d95-8064-6bb7e5681804)
  
-![CC_Transaction](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/2842de40-96bb-4cef-9d7f-31f6fdc42b98)
-
-![CC_Customer](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/91d24496-0c99-4c1b-9527-1973d7ec79b5)
-
-![CC_Additional](https://github.com/VivekShakywar/Credit_Card_Financial_Dashboard/assets/175119104/a6e3dfa4-d6f2-4c7e-9570-698add706dac)
-
 # Insights
 
 A single-page report was created on Power BI Desktop & it was then published to Power BI Service.
